@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#2e75b6</color>
+    <color name="bluegrey">#90A4AE</color>
+    <color name="colorPrimary">#383838</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="background">#e0e0e0</color>
+    <color name="translateInput">#252525</color>
+    <color name="translateTextOutput">#2e75b6</color>
+</resources>

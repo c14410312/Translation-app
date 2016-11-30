@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TranslationApp</string>
+    <string-array name="nav_draw_item_arr">
+        <item>Translate</item>
+        <item>Phrasebook</item>
+        <item>Account</item>
+        <item>Logout</item>
+    </string-array>
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Clise Navigation Drawer</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="(English)"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/translateFrom" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textSize="18dp"
+        android:layout_below="@id/translateFrom"
+        android:singleLine="true"
+        android:id="@+id/translateFromString"
+         />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/translateTo"
+        android:layout_below="@id/translateFromString"
+        />
+
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="4.0dip"
+        android:paddingTop="5.0dip"
+        android:layout_below="@id/translateTo"
+        android:paddingRight="4.0dip"
+        android:paddingBottom="1.0dip"
+        android:layout_marginLeft="10dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:maxLines="2"
+            android:scrollbars = "vertical"
+            android:textSize="25dp"
+            android:textColor="@color/translateTextOutput"
+            android:id="@+id/translateToString"
+            />
+    </LinearLayout>
+
+
+</RelativeLayout>

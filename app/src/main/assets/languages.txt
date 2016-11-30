@@ -1,0 +1,53 @@
+Afrikaans
+Arabic
+Bosnian (Latin)
+Bulgarian
+Catalan
+Chinese Simplified
+Chinese Traditional
+Croatian
+Czech
+Danish
+Dutch
+English
+Estonian
+Finnish
+French
+German
+Greek
+Haitian Creole
+Hebrew
+Hindi
+Hmong Daw
+Hungarian
+Indonesian
+Italian
+Japanese
+Kiswahili
+Klingon
+Klingon (pIqaD)
+Korean
+Latvian
+Lithuanian
+Malay
+Maltese
+Norwegian
+Persian
+Polish
+Portuguese
+Quer�taro Otomi
+Romanian
+Russian
+Serbian (Cyrillic)
+Serbian (Latin)
+Slovak
+Slovenian
+Spanish
+Swedish
+Thai
+Turkish
+Ukrainian
+Urdu
+Vietnamese
+Welsh
+Yucatec Maya
